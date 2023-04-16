@@ -1,0 +1,1 @@
+{"pinned":false,"id":"8901725b-3490-4f67-b559-4a443d53b236","scope":"","installedInProfiles":[{"default":{}}],"extensionId":"hidpoanjnmbijkbfmaefcdgddohkakcf","components":{"contentScript":{"path":"content.js","enabled":true,"settings":{"run_at":"After page loads"}}},"extensionEnabled":true,"name":"EnableSummarization"}

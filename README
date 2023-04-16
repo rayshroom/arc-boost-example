@@ -1,0 +1,10 @@
+## Sample arc boost API server
+Has one route, that sends a text to open AI and get its summary
+
+### To use:
+Install node.js on host
+run "npm i" to install packages
+run "node index.js" to run the server
+
+create new Boost in arc browser with type "injection"
+copy contents of "arc_boost_files/content.js" to the new Boost you created in arc browser
